@@ -9,6 +9,6 @@
 
 ## 02변수
 
-[01\_변수의 타입](./02.%EB%B3%80%EC%88%98/01_%EB%B3%80%EC%88%98%EC%9D%98%20%ED%83%80%EC%9E%85.md)
-[02_printf()의 지시자](<./02.%EB%B3%80%EC%88%98/02_printf()%EC%9D%98%20%EC%A7%80%EC%8B%9C%EC%9E%90.md>)
-[03\_화면으로부터 입력받기-Scanner](./02.%EB%B3%80%EC%88%98/03_%ED%99%94%EB%A9%B4%EC%9C%BC%EB%A1%9C%EB%B6%80%ED%84%B0%20%EC%9E%85%EB%A0%A5%EB%B0%9B%EA%B8%B0-Scanner.md)
+[01\_변수의 타입](./02.%EB%B3%80%EC%88%98/01_%EB%B3%80%EC%88%98%EC%9D%98%20%ED%83%80%EC%9E%85.md)   
+[02_printf()의 지시자](<./02.%EB%B3%80%EC%88%98/02_printf()%EC%9D%98%20%EC%A7%80%EC%8B%9C%EC%9E%90.md>)   
+[03\_화면으로부터 입력받기-Scanner](./02.%EB%B3%80%EC%88%98/03_%ED%99%94%EB%A9%B4%EC%9C%BC%EB%A1%9C%EB%B6%80%ED%84%B0%20%EC%9E%85%EB%A0%A5%EB%B0%9B%EA%B8%B0-Scanner.md)   
